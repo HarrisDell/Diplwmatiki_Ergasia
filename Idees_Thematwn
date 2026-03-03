@@ -1,0 +1,44 @@
+Μερικά πιθανά θέματα είναι τα παρακάτω.
+
+1)Topology of delusion :Speech graph analysis in disordered LLMs.
+-Ψυχωτικός νους τήνει προς random graph
+->Jacques Lacan, point de capiton.Στη ψύχωση αυτό "χάνεται".
+->Entropic decay
+
+2)Rhizomatic traversal :simulating manic episodes in knowledge graphs.
+-Λογικός αλγόριθμος ,βέλτιστη διαδρομή σε π.χ σκύλος->ζώο
+-"Manic" αλγόριθμος,clang associations ή tangentiality αγνοώντασ ιεραρχεία.
+->Deleuze & Guattari : Rhizome έναντυ στο δέντρο(μη ιεραρχεία ,σύνδεση
+οποιουδήποτε σημείου με οποιοδήποτε σημείο),
+->Bipolar disorder (manic phase).
+
+3)Semantic space collapse :detecting hallucinations via spectral graph theory.
+-Εξέταση embeddings στο A.I . K-NN(nearest neighbor) graph των εννοιών
+που "σκέφτεται" το A.I.Όταν αυτό έχει hallucination η δομή του γράφου
+των embeddings καταρρέει ή αλλάζει ιδιοτιμές.
+->Φαινομενολογία (Hussel):intersubjective reality.
+->Ontological security.
+
+4)The Broken Compass: Ανάλυση Τροχιών σε High Dimensional Embeddings
+-Στην κατάθλιψη ή στον ιδεοψυχαναγκασμό (OCD), η σκέψη κολλάει σε
+συγκεκριμένους βρόχους .
+->Κατασκευάζη ενός γράφου όπου οι κόμβοι είναι οι έννοιες (embeddings) ενός LLM.
+->Χρήση Random Walks για προσομοίωση της ροή της σκέψης.
+->Η Παθολογία: Σχεδίαση αλγορίθων που εντοπίζουν ελκυστές
+(attractors)— περιοχές του γράφου από τις οποίες ο Agent δεν μπορεί να
+βγει, προσομοιώνοντας μαθηματικά τον εμμονικό κύκλο σκέψης.
+->Θεωρία Γράφων: Absorbing Markov Chains, PageRank centrality (ως
+μέτρο εμμονής σε συγκεκριμένους κόμβους).
+
+5)Neural Pruning & Small-World Collapse: Μοντελοποίηση της Άνοιας σε
+Νευρωνικά Δίκτυα.
+-Η νόσος Alzheimer χαρακτηρίζεται από την αποσύνδεση των νευρώνων. Στη
+θεωρία γραφημάτων, αυτό σημαίνει ότι ένα δίκτυο χάνει την ιδιότητα του
+"Small-World" (μικρού κόσμου) και γίνεται κατακερματισμένο.
+-Παίρνουμε ένα εκπαιδευμένο νευρωνικό δίκτυο (GNN - Graph Neural Network).
+->Εφαρμόζουμε Iterative Edge Removal (στοχευμένη ή τυχαία αφαίρεση
+ακμών) προσομοιώνοντας τη νευροεκφύλιση.
+->Μελετάμε πώς καταρρέει η ικανότητα του μοντέλου να συνδέει
+απομακρυσμένες έννοιες.
+
+!!!Μέχρι στιγμής καλός συναδυασμος είναι τα (1),(3),(4) οπότε πάμε με βάση αυτά.
